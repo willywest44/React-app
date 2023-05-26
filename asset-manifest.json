@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-app/static/css/main.db89ddf4.css",
+    "main.js": "/React-app/static/js/main.3f06c3e8.js",
+    "static/js/787.0c3f432a.chunk.js": "/React-app/static/js/787.0c3f432a.chunk.js",
+    "static/media/Logo.svg": "/React-app/static/media/Logo.340368e6552f1308c9ef94ae22fc37cb.svg",
+    "static/media/Search.svg": "/React-app/static/media/Search.dca2820426619b108d334b70e8113acd.svg",
+    "index.html": "/React-app/index.html",
+    "static/media/RightArrow.svg": "/React-app/static/media/RightArrow.686ece404c893bce0a837e1b97ee0d69.svg",
+    "static/media/LeftArrow.svg": "/React-app/static/media/LeftArrow.2e48a212bb47e9fddff224b3dc86f8ca.svg",
+    "static/media/Mark.svg": "/React-app/static/media/Mark.ab5da0aebaa34e587acb73fe56f01ccf.svg",
+    "static/media/Plus.svg": "/React-app/static/media/Plus.eb0a5244d03c448a07d647588970f928.svg",
+    "static/media/Pause.svg": "/React-app/static/media/Pause.c8b4590deb8965242ac79c62845af7ce.svg",
+    "main.db89ddf4.css.map": "/React-app/static/css/main.db89ddf4.css.map",
+    "main.3f06c3e8.js.map": "/React-app/static/js/main.3f06c3e8.js.map",
+    "787.0c3f432a.chunk.js.map": "/React-app/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db89ddf4.css",
+    "static/js/main.3f06c3e8.js"
+  ]
+}
